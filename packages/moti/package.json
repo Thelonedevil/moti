@@ -72,6 +72,6 @@
   },
   "gitHead": "c91ab85f41976786114282910c08dc5c19cfc857",
   "dependencies": {
-    "framer-motion": "^6.5.1"
+    "framer-motion": "^10.13.1"
   }
 }
